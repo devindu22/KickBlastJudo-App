@@ -1,0 +1,5 @@
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic\bin\Debug\KickBlastJudoLogic.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic\bin\Debug\KickBlastJudoLogic.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic\obj\Debug\KickBlastJudoLogic.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic\obj\Debug\KickBlastJudoLogic.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic\obj\Debug\KickBlastJudoLogic.csprojResolveAssemblyReference.cache

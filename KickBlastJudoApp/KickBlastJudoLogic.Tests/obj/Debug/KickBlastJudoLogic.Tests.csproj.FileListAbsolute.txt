@@ -1,0 +1,7 @@
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\bin\Debug\KickBlastJudoLogic.Tests.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\bin\Debug\KickBlastJudoLogic.Tests.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\bin\Debug\KickBlastJudoLogic.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\bin\Debug\KickBlastJudoLogic.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\obj\Debug\KickBlastJudoLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\obj\Debug\KickBlastJudoLogic.Tests.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoLogic.Tests\obj\Debug\KickBlastJudoLogic.Tests.pdb

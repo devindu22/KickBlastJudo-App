@@ -1,0 +1,11 @@
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\bin\Debug\KickBlastJudoApp.exe.config
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\bin\Debug\KickBlastJudoApp.exe
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\bin\Debug\KickBlastJudoApp.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.csprojResolveAssemblyReference.cache
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.MainForm.resources
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.Properties.Resources.resources
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.csproj.GenerateResource.Cache
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.exe
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\obj\Debug\KickBlastJudoApp.pdb
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\bin\Debug\KickBlastJudoLogic.dll
+C:\Users\Devindu Malshan\Desktop\HND\Programming\Assignment\KickBlastJudoApp\KickBlastJudoApp\bin\Debug\KickBlastJudoLogic.pdb
